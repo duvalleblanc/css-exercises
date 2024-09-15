@@ -1,0 +1,35 @@
+/* Style Sheet - Duval Le Blanc */
+
+.odd{
+
+    background-color: pink;
+    
+}
+
+.odd.fontsize{
+
+    font-size: 24px;
+}
+
+#Verdana {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sans-serif {
+
+    font-family: sans-serif;
+}
+
+.firstdiv {
+
+    color: blue;
+    font-size: 36px;
+}
+
+.seconddiv {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
