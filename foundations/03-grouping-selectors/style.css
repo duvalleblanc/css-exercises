@@ -1,0 +1,21 @@
+/* CSS Styles */
+
+.button {
+
+    font-family: sans-serif;
+    font-size: 28px;
+
+}
+
+.clickmebutton {
+
+    background-color: black;
+    color: white;
+
+}
+
+.nobutton {
+
+    background-color: yellow;
+
+}
